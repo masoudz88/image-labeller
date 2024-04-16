@@ -1,0 +1,48 @@
+{
+  "fruits": [
+    {
+      "class": "Apple",
+      "description": "Apples are crisp, sweet fruits often eaten fresh or used in various dishes and desserts."
+    },
+    {
+      "class": "Pear",
+      "description": "Pears are juicy fruits with a soft texture and sweet flavor, enjoyed fresh or in cooking."
+    },
+    {
+      "class": "Orange",
+      "description": "Oranges are citrus fruits known for their refreshing taste and high vitamin C content."
+    },
+    {
+      "class": "Watermelon",
+      "description": "Watermelon is a large, juicy fruit with sweet flesh, perfect for hot summer days."
+    },
+    {
+      "class": "Grape",
+      "description": "Grapes are small, juicy fruits that can be eaten fresh or used to make wine and raisins."
+    },
+    {
+      "class": "Banana",
+      "description": "Bananas are elongated, curved fruits with a creamy texture and sweet flavor."
+    },
+    {
+      "class": "Avocado",
+      "description": "Avocado is a creamy fruit with a buttery texture, often used in salads, sandwiches, and guacamole."
+    },
+    {
+      "class": "Plum",
+      "description": "Plums are sweet and juicy fruits with a smooth skin and a stone inside."
+    },
+    {
+      "class": "Pineapple",
+      "description": "Pineapple is a tropical fruit with a sweet, tangy flavor, commonly eaten fresh or used in cooking."
+    },
+    {
+      "class": "Strawberry",
+      "description": "Strawberries are small, red fruits with a juicy texture and sweet flavor, often used in desserts."
+    },
+    {
+      "class": "Blueberry",
+      "description": "Blueberries are small, blue-purple berries packed with antioxidants and used in various culinary dishes."
+    }
+  ]
+}
