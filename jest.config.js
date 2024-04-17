@@ -1,7 +1,4 @@
-import type { Config } from '@jest/types';
-
-// Sync object
-const config: Config.InitialOptions = {
+const config = {
   rootDir: process.cwd(),
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
   transformIgnorePatterns: [],
